@@ -39,6 +39,7 @@ https://medium.com/@saitama_wolfpack
 
 **Chart + data:
 **
+
 https://coinmarketcap.com/community/profile/SaitamaReborn/
 https://coinmarketcap.com/dexscan/solana/8NWGQq3kbMU6SU3begQXKG5S4QaQcMeP4XMJcFUrYQJS/
 
@@ -46,6 +47,7 @@ https://www.dextools.io/app/en/token/saitama-wolf-pack
 https://dexscreener.com/solana/8nwgqq3kbmu6su3begqxkg5s4qaqcmep4xmjcfuryqjs
 
 Blockexplorer:
+
 https://solscan.io/token/GjWBV4Z3HVEQKQB9BCwou1KiUzKs6j2fSohUtGGAiPD7
 
 <!---
